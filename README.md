@@ -25,3 +25,5 @@ Installation
 ---------------
 
 Follow [INSTALL.md](https://github.com/aichallenge/aichallenge/blob/epsilon/INSTALL.md).
+
+Alternately, follow [Dockerize.md](Dockerize.md).
